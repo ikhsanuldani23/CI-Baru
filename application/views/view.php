@@ -99,7 +99,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 						<h2>X- BANNER</h2>
 						<div class="price">
 							FROM
-							<span>$1000</span>
+							<span></span>
 						</div>
 						<a href="#">CETAK SEKARANG</a>
 					</div>
