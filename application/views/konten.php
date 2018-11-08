@@ -31,14 +31,6 @@
 					</div>
 				</div>
 
-				<div class="container"
-				 <div class="row">
-				     <div class="col text-left">
-			        <h4><i>Mengapa Pilih Kami ???</i></h4>
-				  </div>
-				</div>
-
-
 				<div class="grid_5 prefix_1">
 					<h3>Welcome</h3>
 					<img src="tema/site/images/page1_img1.jpg" alt="" class="img_inner fleft">

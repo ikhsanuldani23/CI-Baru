@@ -77,7 +77,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 								<li><a href="tema/site/index-1.html">OUTDOOR</a></li>
 								<li><a href="tema/site/index-2.html">CARD</a></li>
 								<li><a href="tema/site/index-4.html">CONTACT</a></li>
-								<li><a href="tema/site/">LOGIN</a></li>
+								<li><a href="tema/login/index.html">LOGIN</a></li>
 							</ul>
 						</nav>
 						<div class="clear"></div>
