@@ -50,6 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 				navigation : true,
 				pagination : false
 				});
+				
 			$().UItoTop({ easingType: 'easeOutQuart' });
 			});
 		</script>
@@ -73,11 +74,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 					<div class="menu_block">
 						<nav class="horizontal-nav full-width horizontalNav-notprocessed">
 							<ul class="sf-menu">
-								<li class="current"><a href="view.php">HOME</a></li>
-								<li><a href="tema/site/index-1.html">OUTDOOR</a></li>
-								<li><a href="tema/site/index-2.html">CARD</a></li>
-								<li><a href="tema/site/index-4.html">CONTACT</a></li>
-								<li><a href="tema/login/index.html">LOGIN</a></li>
+								<li class="current"><a href="#view">HOME</a></li>
+								<li><a href="<?php echo site_url('outdor'); ?>">OUTDOOR</a></li>
+								<li><a href="">CARD</a></li>
+								<li><a href="">CONTACT</a></li>
+								<li><a href="">LOGIN</a></li>
 							</ul>
 						</nav>
 						<div class="clear"></div>
@@ -127,7 +128,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 		</div>
 <!--==============================Content=================================-->
-				<?php $this->load->view('konten') ?>;
+				<!-- <?php $this->load->view('konten') ?>; -->
 <!--==============================footer=================================-->
 		<footer>
 			<div class="container_12">
