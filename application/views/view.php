@@ -128,7 +128,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 			</div>
 		</div>
 <!--==============================Content=================================-->
-				<!-- <?php $this->load->view('konten') ?>; -->
+				<?php $this->load->view('konten') ?>;
 <!--==============================footer=================================-->
 		<footer>
 			<div class="container_12">
